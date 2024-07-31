@@ -30,7 +30,7 @@
 | 📍 Location: China |
 | 🏫 Education: Jilin University | 
 | 🎓 Major: Artificial Intelligence |
-| 📩 Email: xingchuan930@163.com |
+| 📩 Email: xingchuan931@163.com |
 
 
 <div align = center>
