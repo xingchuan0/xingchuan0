@@ -1,21 +1,41 @@
+
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+![](assets/Bottom_up.svg)
+![github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+![C](https://img.shields.io/badge/-C-purple?style=flat&logo=C&logoColor=A8B9CC)&nbsp; 
+![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; 
+![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp; 
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)&nbsp; 
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/爱好-二次元-green)
 
+| .   | .   |
+|-----|-----|
+| ![xingchuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingchuan0&show_icons=true&theme=tokyonight) | ![xingchuan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xingchuan0&theme=tokyonight&layout=compact) |
 </div>
 
-![头像](image/头像.jpg)
+<div><img align="right" alt="GIF" src="assets/liang.gif" width="350" height="100%" /></div>
 
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+|<p align="left"> About me: </p>|
+|--|
+| 📛 Name: Xing Chuan |
+| 📍 Location: China |
+| 🏫 Education: Jinan University | 
+| 🎓 Major: Artificial Intelligence |
+| 📩 Email: xingchuan931@163.com |
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+
+<div align = center>
+
+<!-- dark snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![MyGo](image/MyGo.png)
+</div>
+
+
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines="Hi,+I'm+Xing+Chuan".
