@@ -14,10 +14,15 @@
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-green)
 
+| .   | .   |
+|-----|-----|
+| ![xingchuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingchuan0&show_icons=true&theme=tokyonight) | ![xingchuan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xingchuan0&theme=tokyonight&layout=compact) |
+
+</br>
 </div>
 
 
-<div><img align="right" alt="GIF" src="assets/liang.gif" width="349" height="100%" /></div>
+<div><img align="right" alt="GIF" src="assets/liang.gif" width="380" height="100%" /></div>
 
 |<p align="left"> About me: </p>|
 |--|
@@ -29,11 +34,7 @@
 
 
 <div align = center>
-
-| .   | .   |
-|-----|-----|
-| ![xingchuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingchuan0&show_icons=true&theme=tokyonight) | ![xingchuan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xingchuan0&theme=tokyonight&layout=compact) |
-
+</br>
 
 ![MyGo](image/MyGo.png)
 </div>
